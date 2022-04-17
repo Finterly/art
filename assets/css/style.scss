@@ -24,6 +24,9 @@ $border-color: #dce6f0 !default;
 $table-border-color: #e9ebec !default;
 $hr-border-color: #eff0f1 !default;
 
+
+@import 'jekyll-theme-cayman';
+
 //{% if site.logo_url %}
 .project-name::before {
     content: " ";
@@ -37,9 +40,6 @@ $hr-border-color: #eff0f1 !default;
     background-repeat: no-repeat;
     background-position: center center;
 }
-
-@import 'jekyll-theme-cayman';
-
 
 {% endif %}
 
