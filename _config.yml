@@ -1,4 +1,4 @@
-url: 'https://finterly.github.io/art.github.io/'
-baseurl: ''
+url: 'https://finterly.github.io'
+baseurl: '/art.github.io'
 
 theme: jekyll-theme-cayman
