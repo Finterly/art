@@ -6,7 +6,7 @@ $medium-breakpoint: 42em !default;
 
 // Headers
 // $header-heading-color: {{ site.color.header | default: "#fff" }} !default; 
-$header-bg-color-secondary: {{ site.color.gradient_right | default: "#2F255E" }} !default; //purple
+$header-bg-color-secondary: {{ site.color.gradient_right | default: "#877898" }} !default; //light purple
 $header-bg-color: {{ site.color.gradient_left | default: "#6495ED" }} !default; //light blue
 
 // Text
