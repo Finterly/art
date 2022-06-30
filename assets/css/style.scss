@@ -7,10 +7,10 @@ $medium-breakpoint: 42em !default;
 // Headers
 // $header-heading-color: {{ site.color.header | default: "#fff" }} !default; 
 $header-bg-color-secondary: {{ site.color.gradient_right | default: "#2F255E" }} !default; //dark purple
-$header-bg-color: {{ site.color.gradient_left | default: "#877898" }} !default; //light blue
+$header-bg-color: {{ site.color.gradient_left | default: "#6495ED" }} !default; //light blue
 
 // Text
-$section-headings-color: {{ site.color.section_title | default: site.color.gradient_right | default: "#2F255E" }} !default; //dark purple
+$section-headings-color: {{ site.color.section_title | default: site.color.gradient_right | default: "#877898" }} !default; //purple
 $body-text-color: #606c71 !default;
 $body-link-color: {{ site.color.link | default: site.color.gradient_left | default: "#1e6bb8" }} !default;
 $blockquote-text-color: #819198 !default;
